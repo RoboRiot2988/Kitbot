@@ -2,8 +2,6 @@
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
 
-//test to see which repository is being used for the code, and to see if the code is being updated on github
-
 package frc.robot.commands;
 
 import frc.robot.subsystems.ExampleSubsystem;
